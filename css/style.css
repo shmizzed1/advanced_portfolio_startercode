@@ -1,17 +1,22 @@
 /* Nav Bar CSS */
+.body {
+    position: relative;
+}
 
+.color_div {
+    height: 800px;
+    margin: 1em;
+    border-radius: 1em;
+}
 
 /* Header CSS */
 
-
-
 /* Section CSS */
 
-
-
 /* About Section CSS */
-
-
+p{
+    color: black;
+}
 
 /* Portfolio Item CSS */
 
