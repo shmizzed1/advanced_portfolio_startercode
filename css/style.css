@@ -1,6 +1,7 @@
 /* Nav Bar CSS */
 .body {
     position: relative;
+    background-color: lightblue;
 }
 
 .color_div {
@@ -8,9 +9,13 @@
     margin: 1em;
     border-radius: 1em;
 }
-
+.nav navbar-nav {
+    position: fixed;
+}
 /* Header CSS */
-
+body {
+    background-color: black;
+}
 /* Section CSS */
 
 /* About Section CSS */
@@ -19,7 +24,6 @@ p{
 }
 
 /* Portfolio Item CSS */
-
 
 
 /* Footer CSS */
